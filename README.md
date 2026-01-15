@@ -2,6 +2,9 @@
 
 A simple chatbot interface built with React.
 
+![Project Screenshot](src/chatBot.png)
+
+
 ## Features
 - Functional components
 - Props and state
