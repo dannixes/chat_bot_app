@@ -2,7 +2,7 @@
 
 A simple chatbot interface built with React.
 
-![Project Screenshot](src/chatBot.png)
+![Project Screenshot](public/chatBot.png)
 
 
 ## Features
